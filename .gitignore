@@ -1,0 +1,20 @@
+# IDE / editor junk (do not commit)
+.vs/
+.vscode/
+*.ssmssln
+*.ssmssqlproj
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temp files
+*.pbix.lnk
+~$*
